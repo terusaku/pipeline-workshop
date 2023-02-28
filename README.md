@@ -1,4 +1,4 @@
-# pipeline-workshop# pipeline-workshop
+# pipeline-workshop
 
 This is a blank project for CDK development with Python.
 
